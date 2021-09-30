@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是一名高级前端开发工程师, 技术栈：Vue JavaScript es-next Nodejs。
+我是一名高级前端开发工程师, 技术栈：Vue es-next css3 Nodejs。
 Love Font-end！！！
 [![Page Views Count](https://badges.toozhao.com/badges/01EZ8SNDN0QVY582EY8ZMMX1FH/blue.svg)](https://badges.toozhao.com/stats/01EZ8SNDN0QVY582EY8ZMMX1FH 'Get your own page views count badge on badges.toozhao.com')
 
