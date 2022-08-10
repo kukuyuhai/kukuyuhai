@@ -10,7 +10,7 @@ Love Font-end！！！
 
 - 🌱 I’m currently learning Vite2 and Vue3
 - 📫 Email: kukuyuhai@163.com
-- 👯 Focus on [dex-admin-template](https://github.com/kukuyuhai/dex-admin-template)
+- 👯 
 - 🤔 Looking forward to a good job
 
 <!-- - 🔭 I’m currently working on ...
